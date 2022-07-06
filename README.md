@@ -1,4 +1,4 @@
-# Spark_ML_Rec_Sys
+# Spark ML Recommender System
 
 Project Objective:
 
